@@ -3,6 +3,7 @@
 Two separate Streamlit apps:
 - `rag_app.py`: upload multiple PDFs, chunk and embed them, save a shared FAISS store.
 - `farmer_chatbot.py`: green agriculture-themed Tamil/English chatbot with source filename/page citations.
+-  'download_goscheme.py': webscrapping the schemes and download them as pdf from URL's.
 
 ## 1. Setup (Windows PowerShell)
 
